@@ -1,0 +1,26 @@
+public String getParentFolder(ParentFolderDto folderDto){
+    String parentFolderId="";
+    HttpHeaders httpHeaders=new HttpHeaders();
+    httpHeaders.setContentType(MediaType.APPLICATION_JSON);
+    httpHeaders.put(Constant.CIF_REQUEST,Collections.singletonList(folderDto.getCif()));
+    httpHeaders.put(Constant.BANCH_CODE,Collections.singletonList(folderDto.getBanchCode()));
+    httpHeaders.put(Constant.TYPE_KH,Collections.singletonList(Constant.VALUE_TYPE_KH));
+    httpHeaders.put(Constant.X_API_KEY,Collections.singletonList(tokenKey));
+    LOGGER.info("getParentFolderId: call BPM request {}",ConvertUtils.toJson(folderDto));
+    HttpEntity<ParentFolderDto> dtoHttpEntity=new HttpEntity<>(null,httpHeaders);
+    ResponseEntity<String> responseEntity;try{
+    responseEntity=restTemplate.exchange(baseUrl,HttpMethod.POST,dtoHttpEntity,String.class );
+    LOGGER.info("=== getParentFolderId: response {} === ",ConvertUtils.toJson(responseEntity));
+    if(StringUtils.isEmpty(responseEntity.getBody())){
+    LOGGER.warn("responseEntity do not exist");
+    return DflowStatus.FAILED.name();}
+    ObjectMapper mapper=new JsonMapper();
+    JsonNode json=mapper.readTree(responseEntity.getBody());
+    parentFolderId=json.get("folderId").asText();
+    return parentFolderId;
+    }catch(Exception e){
+    LOGGER.error("===Exception getParentFolderId witd message=== {}",e.getMessage());
+    if(ExceptionUtil.isTimedOutException(e)){
+    LOGGER.error("===call getParentFolderId BPM timeout=== {}",e.getMessage());
+    return DflowStatus.TIMEOUT.name();}
+    return DflowStatus.FAILED.name();}

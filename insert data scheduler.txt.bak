@@ -1,0 +1,359 @@
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J024', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71879840001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J025', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71901680001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J026', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71938080001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J027', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71941460001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J028', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71942330001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J029', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71942810001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J030', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71942900001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J031', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71943220001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J032', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71943270001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J033', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71967130001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J034', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71967510001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J035', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71978850001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J036', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72006940001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J037', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72015020001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J038', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72172070001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J039', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72173500001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J040', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71939710001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J041', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71962800001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J042', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71977320001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J043', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71980430001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J044', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72000720001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J045', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72001160001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J046', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72008000001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J047', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72009080001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J048', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72010300001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J049', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72089470001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J050', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72090150001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J051', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71965500001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J052', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71978410001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J053', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '071979480001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J054', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981250001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J055', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981320001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J056', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981510001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J057', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981610001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J058', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981640001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J059', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981710001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J060', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71981830001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J061', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71997140001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J062', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072352310001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J063', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072360900001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J064', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072363030001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J065', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072363960001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J066', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072366530001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J067', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072372360001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J068', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072391180001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J069', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072397490001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J070', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072399990001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J071', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71751910001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J072', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072413770001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J073', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072418950001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J074', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072423410001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J074', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072425190001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J075', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072426650001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J076', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '071961600001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J077', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072000440001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J078', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072014770001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J079', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072223430001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J080', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '071962060001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J081', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '071889990001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J082', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072186410001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J083', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072254240001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J084', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072128340001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J085', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072131990001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J086', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072132460001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J087', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072244900001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J088', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072173850001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J089', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072255490001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J090', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072330700001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J091', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072131940001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J092', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072130680001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J093', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072132190001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J094', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '072256330001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J095', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71674290001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J096', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71690010002', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J097', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71749970001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J098', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71755470001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J099', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71784770001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0100', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71809710001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0101', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71865410001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0102', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71865440001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0103', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71865620001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0104', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0105', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200002', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0106', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200003', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0107', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200004', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0108', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200005', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0109', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200006', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0110', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200007', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0111', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200008', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0112', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71868200009', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0113', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71904340001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0114', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71936830001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0115', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71937850001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0116', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71941620001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0117', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71942350001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0118', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71947600001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0119', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71976670001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0120', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71984040001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0121', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72000420001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0122', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72000600001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0123', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72001050001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0124', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71985300001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0125', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72005180001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0126', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72005890001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0127', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72012740001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0128', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72007300001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0129', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71952540001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0130', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71969740001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0131', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71987840001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0132', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71989870001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0133', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71992080001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0134', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71997740001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0135', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72009390001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0136', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72015790001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0137', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72078100001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0138', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72080070001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0139', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72081290001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0140', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72118060001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0141', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '72149610001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');
+
+INSERT INTO ESB_JOB_SCHEDULES (JOB_ID, JOB_NAME, JOB_DESC, JOB_INTERVAL, MAKERID, CHECKERID, MAKER_DT, CHECKER_DT, RECORD_STATS, UDF_1, UDF_2, UDF_3, UDF_4, UDF_5, UDF_6, NEXT_TIME, UDF_7) 
+VALUES ('J0142', 'JOB_HCC_HG', 'HCC Hau Giang', '12', 'HUYNV1', 'HUYNV1',sysdate, sysdate, 'O', '71796890001', 'http://scan-transaction-service/api/v1/info/scan_transaction', '030006_28', 'HCCHAUGIANG','scheduler-job-active', 'http://settle-service/api/v1/settle/settle-bill', sysdate, '12000');

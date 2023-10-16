@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:par="http://partnerapi.bankplus.viettel.com/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <par:process>
+            <cmd>MM_CHAIN_GET_FEE</cmd>
+            <data>{"username":"partnerchain","password":"8z3HlaBtTtUIrU9NnMkir50aefeX3zPmjPV4PcDyMp0K/cPlKRrAsn5jCvkoZmQleg7fEqr+6QEU9B7zgd1BNEobYJklJy2eXVfdW0/iyV4rq/zgvxJlP9WPW5Ts8yDkXrEU0Qk9u5z6bj08HRbVLd53vZmmqy7jiDZ74feVTnk\u003d","amount": "10000","channel_info": {"channel_type": "bank","source": "shop","shop_code": "30808","shop_name": "30808","shop_address": "HCM 305 Tô Hiến Thành","staff_id": "5529"},"sender": {"id_no": "Pham Van A","name": "967806109","msisdn": "0967806109"},"receiver": {"msisdn": "0967806109","name": "Doi Quoc D***"},"service_code": "MMSERVICEAPI",	"order_id": "202309302658192889","original_order_id": "202309302658192889","original_trans_id": "231003629368642","fee_type": "0"}</data>
+            <signature>k+pZXRIrETkgJGtrMh7246AK0D1zjw8N2S5UXTJ6T0J1q3TtfVDuqSQJBekWbDRNXsZz24oQEqGQk/+rAfQPi+1YFqjHbXq5i3YlSzK3rytkkvrHftWHcZXYUSIrtxFV6gVNPm5b1ZGuK7MT7yfJBqQdPOTIxp8e4zuv6KPSgy4=</signature>
+        </par:process>
+    </soapenv:Body>
+</soapenv:Envelope>
